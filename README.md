@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my profile! </br> </br>
-My name is <b>Hoang Pham</b>
+My name is <b>Hoang Pham</b> </br>
 I'm an <b>AI Engineer</b> from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width=20 height=18> <b>Hanoi, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555627.png" width=20 height=18> <b>Joensuu, Finland</b>. </br> </br>
 Currently pursuing Master's degree at [![University of Eastern Finland](https://img.shields.io/badge/University%20of%20Eastern%20Finland-000000?style=color=white")](https://www.uef.fi/en) , I am passionate about AI and excited by its potential to the future. 
 
